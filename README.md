@@ -17,6 +17,7 @@
 ### Python
 
 - [Django REST example](./python/django-rest)
+- [Flask REST example](./python/flask-restful)
 - [Django/Celery/DRF code samples](./python/code-samples)
 
 ### NodeJS

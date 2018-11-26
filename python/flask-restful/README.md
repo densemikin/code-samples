@@ -1,4 +1,4 @@
-# Django REST Example
+# Flask REST Example
 
 
 ### Technologies
